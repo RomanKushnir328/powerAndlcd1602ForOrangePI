@@ -1,0 +1,8 @@
+/mnt/HDD/scripts/build/CMakeFiles/powerManagement.dir
+/mnt/HDD/scripts/build/CMakeFiles/displayManagement.dir
+/mnt/HDD/scripts/build/CMakeFiles/edit_cache.dir
+/mnt/HDD/scripts/build/CMakeFiles/rebuild_cache.dir
+/mnt/HDD/scripts/build/CMakeFiles/list_install_components.dir
+/mnt/HDD/scripts/build/CMakeFiles/install.dir
+/mnt/HDD/scripts/build/CMakeFiles/install/local.dir
+/mnt/HDD/scripts/build/CMakeFiles/install/strip.dir

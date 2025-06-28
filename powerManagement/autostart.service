@@ -1,0 +1,10 @@
+	[Unit]
+	Description=Display management
+	After=local-fs.target
+
+	[Service]
+	ExecStart=/usr/local/bin/displayManagement
+	Restart=always
+
+	[Install]
+	WantedBy=multi-user.target

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/displayManagement.dir/displayManagement/script.cpp.o -o displayManagement  -lwiringPi -lwiringPiDev 

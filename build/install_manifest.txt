@@ -1,0 +1,2 @@
+/usr/local/bin/powerManagement
+/usr/local/bin/displayManagement

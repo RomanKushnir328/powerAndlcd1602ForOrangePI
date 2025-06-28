@@ -1,0 +1,10 @@
+	[Unit]
+	Description=Power management
+	After=local-fs.target
+
+	[Service]
+	ExecStart=/usr/local/bin/powerManagement
+	Restart=always
+
+	[Install]
+	WantedBy=multi-user.target
