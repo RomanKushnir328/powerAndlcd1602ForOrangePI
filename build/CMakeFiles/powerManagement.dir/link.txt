@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/powerManagement.dir/powerManagement/script.cpp.o -o powerManagement  -lwiringPi 
